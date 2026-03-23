@@ -1,0 +1,22 @@
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Output images (generated, not source)
+Output/
+
+# Temp/lock files
+~$*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# ZIP archive (images are already in Images/)
+Images.zip
+Assignment 3.docx
+~$signment 3.docx
